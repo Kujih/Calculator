@@ -42,11 +42,11 @@ button{
   background-color: orange;
 }
 
-button: hover{
+button:hover{
   background-color: darkgray;
 }
 
-.operator: hover, .equal-sign:hover {
+.operator:hover, .equal-sign:hover {
   background-color: dark-orange;
 }
 
